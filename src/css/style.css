@@ -1,0 +1,28 @@
+
+#mainContainer
+{
+	-fx-background-color: #9AC503;
+}
+
+#centerVBox
+{
+	-fx-background-color: #9AC503;
+	-fx-border-color: #000002;
+    -fx-border-width: 3px;
+}
+
+.label
+{
+	-fx-background-color: #9AC503;
+    -fx-border-color: #000002;
+    -fx-border-width: 3px;
+	
+  
+}
+
+.button
+{
+	-fx-background-color: #9AC503;
+	-fx-border-color: #000002;
+    -fx-border-width: 3px;
+}
