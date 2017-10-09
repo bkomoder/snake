@@ -32,6 +32,7 @@ public class Snake {
         return body;
     }
 
+    //flag for extending Snake
     public void setExtend(boolean extend) {
         this.extend = extend;
     }
